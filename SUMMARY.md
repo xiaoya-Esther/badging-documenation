@@ -1,0 +1,20 @@
+# Table of contents
+
+* [Overview of the D&I Badging](README.md)
+* [Applying for a badge](applying-for-a-badge/README.md)
+  * [Apply for event badge](applying-for-a-badge/apply-for-event-badge.md)
+  * [Apply for project badge](applying-for-a-badge/apply-for-project-badge.md)
+* [Reviewing](reviewing/README.md)
+  * [Review checklist](reviewing/review-checklist.md)
+  * [Review criteria](reviewing/review-criteria.md)
+  * [Apply to review](reviewing/apply-to-review.md)
+  * [D&I Badging Conflict of Interest Policy](reviewing/d-and-i-badging-conflict-of-interest-policy.md)
+* [Roles and Responsibility](roles-and-responsibility/README.md)
+  * [Untitled](roles-and-responsibility/untitled-3.md)
+  * [Untitled](roles-and-responsibility/untitled-2.md)
+  * [Untitled](roles-and-responsibility/untitled-1.md)
+  * [Untitled](roles-and-responsibility/untitled.md)
+* [The badging-bot](the-badging-bot.md)
+* [D&I Badging Code of Conduct](d-and-i-badging-code-of-conduct.md)
+* [How to contribute](how-to-contribute.md)
+
